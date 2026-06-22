@@ -166,15 +166,16 @@ Sistema de gestão de Recursos Humanos focado em recrutamento, gestão de candid
 
 ### 📊 Estatísticas
 
-<p>
-<img 
-  src="https://github-readme-stats.vercel.app/api?username=vitorfetal"
-/>
+<p align="center">
 
   <img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorfetal&theme=tokyonight&layout=compact" 
+    src="https://github-readme-stats.vercel.app/api?username=vitorfetal&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117"
+    height="180"
   />
+
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorfetal&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"
+    height="180"
+  />
+
 </p>
