@@ -9,6 +9,7 @@ Me chamo Vitor Fetal, sou desenvolvedor backend focado em Java, Spring Boot e ar
 Sou apaixonado por engenharia de software e estou constantemente evoluindo minhas habilidades em backend, modelagem de domínio e boas práticas de desenvolvimento.
 
 </div>
+</br>
 
 ---
 
@@ -28,8 +29,8 @@ Sou apaixonado por engenharia de software e estou constantemente evoluindo minha
   <img alt="Swagger" title="Swagger" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg"/>
   <img alt="IntelliJ" title="IntelliJ IDEA" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg"/>
 </p>
-<br/>
 </br>
+
 ---
 
 ### 🧠 Arquitetura e Boas Práticas
