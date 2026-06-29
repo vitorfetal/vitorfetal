@@ -166,11 +166,12 @@ Sistema de gestão de Recursos Humanos focado em recrutamento, gestão de candid
 
 ### 📊 Estatísticas
 
-<div align="center"> 
-    <img src="https://streak-stats.demolab.com?user=vitorfetal&theme=tokyonight" /> 
-    
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=vitorfetal&theme=tokyo-night" /> 
-    
-    <img src="https://github-profile-trophy.vercel.app/?username=vitorfetal&theme=tokyonight&row=1&column=6" /> 
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=vitorfetal&theme=tokyonight" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vitorfetal&theme=tokyo-night" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=vitorfetal&theme=tokyonight&row=1&column=6" />
 
 </div>
