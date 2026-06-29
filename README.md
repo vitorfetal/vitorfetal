@@ -1,3 +1,4 @@
+<div aling="center"> 
 # 👨🏻‍💻 Vitor Fetal
 
 **`Desenvolvedor Backend Java`**
@@ -6,10 +7,12 @@ Me chamo Vitor Fetal, sou desenvolvedor backend focado em Java, Spring Boot e ar
 
 Sou apaixonado por engenharia de software e estou constantemente evoluindo minhas habilidades em backend, modelagem de domínio e boas práticas de desenvolvimento.
 
+</div>
 ---
 
-### 🤖 Linguagens e Tecnologias
+<h3 align="center">🤖 Linguagens e Tecnologias</h3>
 
+<h3 align="center">
 <img 
     align="left" 
     alt="Java"
@@ -108,7 +111,7 @@ Sou apaixonado por engenharia de software e estou constantemente evoluindo minha
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" 
 />
-
+</h3>
 <br/>
 <br/>
 
