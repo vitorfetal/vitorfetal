@@ -168,10 +168,10 @@ Sistema de gestão de Recursos Humanos focado em recrutamento, gestão de candid
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=vitorfetal&theme=tokyonight" />
+<img src="https://streak-stats.demolab.com?user=vitorfetal&theme=tokyonight&hide_border=true" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vitorfetal&theme=tokyo-night" />
+<img src="https://github-profile-trophy.vercel.app/?username=vitorfetal&theme=tokyonight&no-frame=true&row=1&column=6" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=vitorfetal&theme=tokyonight&row=1&column=6" />
+<img src="https://komarev.com/ghpvc/?username=vitorfetal&color=blueviolet&style=for-the-badge" />
 
 </div>
