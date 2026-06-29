@@ -15,7 +15,7 @@ Sou apaixonado por engenharia de software e estou constantemente evoluindo minha
 <h3 align="center">🤖 Linguagens e Tecnologias</h3>
 
 <p align="center">
- <p align="center">
+</br>
   <img alt="Java" title="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
   <img alt="Spring Boot" title="Spring Boot" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"/>
   <img alt="C" title="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"/>
@@ -29,8 +29,6 @@ Sou apaixonado por engenharia de software e estou constantemente evoluindo minha
   <img alt="IntelliJ" title="IntelliJ IDEA" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg"/>
 </p>
 <br/>
-<br/>
-
 ---
 
 ### 🧠 Arquitetura e Boas Práticas
