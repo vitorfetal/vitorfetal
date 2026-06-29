@@ -29,6 +29,7 @@ Sou apaixonado por engenharia de software e estou constantemente evoluindo minha
   <img alt="IntelliJ" title="IntelliJ IDEA" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg"/>
 </p>
 <br/>
+</br>
 ---
 
 ### 🧠 Arquitetura e Boas Práticas
