@@ -166,21 +166,14 @@ Sistema de gestão de Recursos Humanos focado em recrutamento, gestão de candid
 
 ### 📊 Estatísticas
 
-<p align="center">
+<div align="center">
 
-   <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=vitorfetal&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+<img src="https://streak-stats.demolab.com?user=vitorfetal&theme=tokyonight" />
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorfetal&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vitorfetal&theme=tokyo-night" />
 
-</p>
+<img src="https://github-profile-trophy.vercel.app/?username=vitorfetal&theme=tokyonight&row=1&column=6" />
+
+<img src="https://skillicons.dev/icons?i=java,spring,docker,postgres,aws,maven,git,github,linux" />
+
+</div>
