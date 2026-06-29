@@ -174,6 +174,4 @@ Sistema de gestão de Recursos Humanos focado em recrutamento, gestão de candid
 
 <img src="https://github-profile-trophy.vercel.app/?username=vitorfetal&theme=tokyonight&row=1&column=6" />
 
-<img src="https://skillicons.dev/icons?i=java,spring,docker,postgres,aws,maven,git,github,linux" />
-
 </div>
