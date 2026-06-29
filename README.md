@@ -13,9 +13,9 @@ Sou apaixonado por engenharia de software e estou constantemente evoluindo minha
 ---
 
 <h3 align="center">🤖 Linguagens e Tecnologias</h3>
-
-<p align="center">
 </br>
+</br>
+<p align="center">
   <img alt="Java" title="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
   <img alt="Spring Boot" title="Spring Boot" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"/>
   <img alt="C" title="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"/>
