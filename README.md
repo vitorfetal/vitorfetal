@@ -22,19 +22,19 @@ With a strong passion for software craftsmanship, I am constantly refining my sk
 
 <table>
   <tr>
-    <td align="center" valign="top" width="33%">
+    <td align="center" valign="top" width="50%">
       <h4>Languages</h4>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="35" title="Java"/> &nbsp;
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="35" title="C#"/> &nbsp;
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="35" title="C"/>
     </td>
-    <td align="center" valign="top" width="33%">
+    <td align="center" valign="top" width="50%">
       <h4>Frameworks & Databases</h4>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="35" title="Spring Boot"/> &nbsp;
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="35" title="PostgreSQL"/> &nbsp;
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="35" title="MySQL"/>
     </td>
-    <td align="center" valign="top" width="33%">
+    <td align="center" valign="top" width="50%">
       <h4>Tools & DevOps</h4>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="35" title="Docker"/> &nbsp;
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="35" title="Git"/> &nbsp;
@@ -56,7 +56,7 @@ With a strong passion for software craftsmanship, I am constantly refining my sk
 
 ### 🚀 Featured Project
 
-#### **[PrismaHR (HR Management System)](https://github.com/vitorfetal/seu-repositorio-aqui)**
+#### **[PrismaHR (HR Management System)](https://github.com/vitorfetal/rh-management-system/tree/master)**
 A comprehensive Human Resources management system designed to streamline recruitment, candidate tracking, and selection processes.
 
 *   **Architecture:** Implemented using modular architecture principles and Clean Architecture.
