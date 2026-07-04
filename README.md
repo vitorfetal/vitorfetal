@@ -68,8 +68,5 @@ A comprehensive Human Resources management system designed to streamline recruit
 
 <div align="center">
   </br>
-  <img src="https://streak-stats.demolab.com?user=vitorfetal&theme=tokyonight" height="175" />
-  </br>
-  </br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vitorfetal&theme=tokyo-night" height="175" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vitorfetal&theme=tokyo-night" height="190" />
 </div>
