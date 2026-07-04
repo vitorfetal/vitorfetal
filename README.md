@@ -62,13 +62,3 @@ Sistema de gestão de Recursos Humanos focado em recrutamento, gestão de candid
 - Construir sistemas reais e escaláveis
   
 ---
-
-### 📊 Estatísticas
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=vitorfetal&theme=tokyonight" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vitorfetal&theme=tokyo-night" />
-
-</div>
