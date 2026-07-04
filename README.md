@@ -60,8 +60,7 @@ Sistema de gestão de Recursos Humanos focado em recrutamento, gestão de candid
 - Evoluir como Backend Engineer
 - Aprofundar em Spring Boot e arquitetura de sistemas
 - Construir sistemas reais e escaláveis
-- Preparação para oportunidades internacionais
-
+  
 ---
 
 ### 📊 Estatísticas
